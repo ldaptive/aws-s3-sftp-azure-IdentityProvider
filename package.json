@@ -1,0 +1,19 @@
+{
+  "name": "s3-sftp-azure-identity",
+  "version": "1.0.0",
+  "description": "AWS Trasfer for SFTP Identity Provider for Azure AD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonathan Hylton | InfoSec ",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/ms-rest-nodeauth": "^3.0.3",
+    "@microsoft/microsoft-graph-client": "^2.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
+}

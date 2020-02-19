@@ -1,0 +1,7 @@
+node_modules/*
+bin/azureCreds.js
+*.zip
+event.json
+index_test.js
+
+
